@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Pastels on Dark.tmTheme",
+  "font_face" : "Inconsolata-dz",
+  "font_size" : 14,
+  "tab_size" : 2,
+  "translate_tabs_to_spaces" : false,
+  "trim_trailing_white_space_on_save": true,
+  "ensure_newline_at_eof_on_save": true
+}
